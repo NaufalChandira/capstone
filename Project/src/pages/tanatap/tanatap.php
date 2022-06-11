@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Restaurant Apps Starter Project</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-    <link rel="stylesheet" href="./style1.css" />
+    <link rel="stylesheet" href="./style1.css">
   </head>
   <body>
     <a href="#maincontent" class="skip-link">Menuju ke konten</a>
@@ -14,10 +14,10 @@
         <ul tabindex="0">
           <li class="navbar-logo">Mari Makan</li>
           <button class="navbar-toggle" tabindex="0"><i class="fa-solid fa-bars"></i></button>
-          <li class="navbar-links"><a href="/Project/src/pages/tanatap/home.html">Home</a></li>
-          <li class="navbar-links"><a href="/Project/src/pages/tanatap/jkt.html">Catalogue</a></li>
-          <li class="navbar-links"><a href="/Project/src/dewan-komentar/index.php">Review</a></li>
-          <li class="navbar-links"><a href="/Project/src/db_login/index.php">Admin</a></li>
+          <li class="navbar-links"><a href="/src/pages/tanatap/home.php">Home</a></li>
+          <li class="navbar-links"><a href="./jkt.php">Catalogue</a></li>
+          <li class="navbar-links"><a href="/src/dewan-komentar/index.php">Review</a></li>
+          <li class="navbar-links"><a href="/src/db_login/index.php">Admin</a></li>
           <li class="navbar-links"><a href="https://www.instagram.com/naufalchand_/">About Us</a></li>
         </ul>
       </nav>
